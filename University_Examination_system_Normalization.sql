@@ -1,4 +1,4 @@
-#Assignment 2: University Examination System Normalization
+ University Examination System Normalization
 
 #Tasks (5 Total)
 
